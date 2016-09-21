@@ -1,0 +1,1614 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\문제집 ㄴㄴ">
+      <UniqueIdentifier>{82f579bc-3f17-4557-8076-1850add2f318}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제집ㄴㄴㄴ">
+      <UniqueIdentifier>{b8ca8acd-89af-41c0-839e-bd9ae0cb2eed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\codeground">
+      <UniqueIdentifier>{e699bf8e-5a1b-476d-990b-d15abf2ada2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ㄹㄹ">
+      <UniqueIdentifier>{a60ba665-0c96-4f0c-bcc6-76f4a9eabf84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘">
+      <UniqueIdentifier>{2a355fbe-98c4-4c29-9d99-2bfa6e2a9ec1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\나세일세미나">
+      <UniqueIdentifier>{9fbccbf4-9a88-46ef-8bde-4fdfd843811d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\나세일세미나\시험1">
+      <UniqueIdentifier>{7529cef4-dd08-45b3-b1e0-7c0620763258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\나세일세미나\시험2">
+      <UniqueIdentifier>{cbbe8e8f-3679-4a89-a79f-748ffa019573}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\나세일세미나\시험3">
+      <UniqueIdentifier>{f28220fc-8c15-4581-a291-4895f59df770}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\나세일세미나\시험4">
+      <UniqueIdentifier>{485e5fe7-cb79-4a0f-bcd3-6e0087e2cb3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\나세일세미나\시험5">
+      <UniqueIdentifier>{f6d2438d-bb88-49a8-b24e-c93502770e0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\나세일세미나\시험6">
+      <UniqueIdentifier>{d20394b0-9b8b-467e-a3b4-bfc0ffa5cc43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제">
+      <UniqueIdentifier>{c77cf043-fc30-403c-a765-2068cf3fdd68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\7일">
+      <UniqueIdentifier>{14b0f9c9-348e-43a0-99ff-e51f97d1b8db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\8일">
+      <UniqueIdentifier>{89cbc91c-7bca-407f-9ffc-f192fe01594a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\9일">
+      <UniqueIdentifier>{446837eb-875e-4d66-a99a-2ed8c441bcc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\10일">
+      <UniqueIdentifier>{f032c6ab-e2ac-4382-ac82-28ff36478587}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\11일">
+      <UniqueIdentifier>{da21d549-361a-4594-92e4-d46f56e76799}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\14일">
+      <UniqueIdentifier>{c444c68f-0b5c-4b1b-83dc-5daf4704d378}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\15일">
+      <UniqueIdentifier>{e7353f56-7ce5-4d22-b7b4-d6e2cffb530c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\16일">
+      <UniqueIdentifier>{33504535-4667-4366-9d31-0e2eb9066b80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\17일">
+      <UniqueIdentifier>{be49e02e-1b76-495d-9866-84c59bbec379}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\18일">
+      <UniqueIdentifier>{6ab150ce-b0a6-414b-8503-dab3b08df620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\22일">
+      <UniqueIdentifier>{17bc2651-4256-4138-917f-bd09d202dfd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\22일\21일">
+      <UniqueIdentifier>{4536720b-3e66-43ae-a1e8-21b20c352a32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\23일">
+      <UniqueIdentifier>{d133a31f-aff6-4c06-bed7-4413f8b4dbe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\24일">
+      <UniqueIdentifier>{1e42bf2f-504d-4904-a2dc-5ce4d38e7135}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\25일">
+      <UniqueIdentifier>{1e0836ca-dcd5-420f-9930-c604aa94c49e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\DP">
+      <UniqueIdentifier>{d710e6a9-f944-4874-a949-93f19e4c6c26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\DP2">
+      <UniqueIdentifier>{cc62f4cd-fe19-453b-84b0-4ab93fbbf9e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\DS2">
+      <UniqueIdentifier>{475e7457-84c5-4608-838c-cf22e5e3d956}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\es1">
+      <UniqueIdentifier>{7ed115f6-3659-43dd-bc6a-0eef815b860b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\bserch">
+      <UniqueIdentifier>{25b3397a-7fd1-4195-9d79-26a5a704c8b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준문제\TREE">
+      <UniqueIdentifier>{b512cb26-6379-44c6-a5c3-a7af72bf8e5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제집 ㄴㄴ\연습">
+      <UniqueIdentifier>{6bd442aa-6a22-4d28-aec2-cc23dbaaacdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제집 ㄴㄴ\충형">
+      <UniqueIdentifier>{98443cc8-4360-45e9-8668-7d68ca209658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\6월">
+      <UniqueIdentifier>{f9f09ed0-0a6a-4272-a830-85a3b39d3e87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\6월\0620">
+      <UniqueIdentifier>{3d771810-5d50-4957-9fed-80d65f9a63a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\6월\0623">
+      <UniqueIdentifier>{5097c9f3-093c-4619-ba7b-33d485a08dc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\6월\0624">
+      <UniqueIdentifier>{bcb36c30-79a5-4375-aced-1ccfca77b97d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\6월\0625">
+      <UniqueIdentifier>{922acf19-3f5a-4a8a-81ed-2ca93a6d0139}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\6월\0627">
+      <UniqueIdentifier>{41ea7ce9-c45c-4d23-9a7e-b17f81f84531}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\6월\0628">
+      <UniqueIdentifier>{1a855e69-8374-409f-a23b-9a7c05d75c83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\6월\0629">
+      <UniqueIdentifier>{2e964953-3a70-442f-904b-caa64b3870a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\6월\0630">
+      <UniqueIdentifier>{b5209172-132a-4a1a-b031-978848820422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월">
+      <UniqueIdentifier>{1ec74730-7881-4841-9b5e-7b59035cf2d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0801">
+      <UniqueIdentifier>{bcb25f2a-0eaf-4da8-8aad-2e544753d532}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0803">
+      <UniqueIdentifier>{41bec8c4-a944-461e-8612-0c9cedd9237e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0804">
+      <UniqueIdentifier>{1bd9e5f9-ed81-4586-acdf-eca6e8270e90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0805">
+      <UniqueIdentifier>{3c4deff7-3dda-4cae-b3d8-0bcf3dce7d41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0806">
+      <UniqueIdentifier>{4d12f122-30d4-49ef-b08a-5f185985c97a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0807">
+      <UniqueIdentifier>{af047ec1-ee6f-45ba-90ef-afa29cb4edb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0808">
+      <UniqueIdentifier>{cea8f21f-d6ce-4350-bd7a-43c999342ec2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0809">
+      <UniqueIdentifier>{7831840f-c0fb-475b-b203-a5ed93c9ed4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0810">
+      <UniqueIdentifier>{c39febe7-97eb-4296-8368-4e208b6c3a9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0815">
+      <UniqueIdentifier>{7557fbf9-430d-4a70-87f8-2aee515f4d70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0816">
+      <UniqueIdentifier>{a87832ed-7731-43c5-bacf-73b808a2ba03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월">
+      <UniqueIdentifier>{b7457b3a-f51f-4a04-8c03-c1c3727ffd8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0701">
+      <UniqueIdentifier>{a38e312e-b300-4c2e-910a-efef40d8cde1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0702">
+      <UniqueIdentifier>{e151b118-a252-49b6-820f-bc5a57dc9cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0703">
+      <UniqueIdentifier>{e627ffab-e697-4c3a-887f-2dbc44f26f1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0704">
+      <UniqueIdentifier>{4fbba1d4-efbc-4d12-8850-c53051e0be95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0705">
+      <UniqueIdentifier>{b392eee6-1e4d-49f8-ab4c-42db298a7e2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0706">
+      <UniqueIdentifier>{e20bd783-33ec-4bfb-88d9-c329e59174fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0707">
+      <UniqueIdentifier>{12f88eea-c154-43f6-9c52-fb41dc1a1645}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0708">
+      <UniqueIdentifier>{c648243d-5e37-4f46-86ec-cf32bec950e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0713">
+      <UniqueIdentifier>{fa10eb3f-a6bf-48d7-8fc4-18ebf6f92492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0714">
+      <UniqueIdentifier>{616a2e52-b608-41a6-a0ca-f55583f6e9ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0717">
+      <UniqueIdentifier>{0db0c544-58c2-4e2c-8968-d691ff5bbf6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0718">
+      <UniqueIdentifier>{6aefe2c8-6c42-4a7f-a570-b6554e6337a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0719">
+      <UniqueIdentifier>{34ffa626-2166-418b-a8ba-b9c454035b89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0720">
+      <UniqueIdentifier>{2bd8b092-950b-4ddd-aca7-252cebb818b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0721">
+      <UniqueIdentifier>{7c13b6f5-5f58-4a5c-89d4-12babc00af3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0722">
+      <UniqueIdentifier>{c93d9e9e-b2f0-4079-b24f-77305751ab09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0724">
+      <UniqueIdentifier>{c4696a63-d9c5-43dc-9705-315d8022994e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0725">
+      <UniqueIdentifier>{e0b07bd1-1183-46da-ad89-7829a90c8219}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0727">
+      <UniqueIdentifier>{12533051-4025-4bb4-8050-396c4f232f4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0728">
+      <UniqueIdentifier>{800a044b-f178-43cf-a1b3-73ff5f1001e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\7월\0729">
+      <UniqueIdentifier>{2b9f8d76-1645-44ec-96ed-c3420e4048d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0817">
+      <UniqueIdentifier>{7216a470-4c89-4765-b8a3-140ebcb60ae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0818">
+      <UniqueIdentifier>{93c246d9-8e00-4323-959f-b0d332d8b41d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0826">
+      <UniqueIdentifier>{1a823522-efdf-46a1-baa2-b0779800ec4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0830">
+      <UniqueIdentifier>{310fdc30-ba07-4697-9a3e-fd09f8241235}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\8월\0831">
+      <UniqueIdentifier>{67502fac-e9ce-4bd7-a296-6747ae043998}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\여름알고리즘\9월">
+      <UniqueIdentifier>{4a70f1d2-0083-45dc-8ea0-df9db500e8d2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="저항.cpp">
+      <Filter>소스 파일\백준문제\7일</Filter>
+    </ClCompile>
+    <ClCompile Include="단어정렬.cpp">
+      <Filter>소스 파일\백준문제\7일</Filter>
+    </ClCompile>
+    <ClCompile Include="분수 찾기.cpp">
+      <Filter>소스 파일\백준문제\7일</Filter>
+    </ClCompile>
+    <ClCompile Include="성지키기.cpp">
+      <Filter>소스 파일\백준문제\7일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 폭발.cpp">
+      <Filter>소스 파일\백준문제\7일</Filter>
+    </ClCompile>
+    <ClCompile Include="rgb거리.cpp">
+      <Filter>소스 파일\백준문제\8일</Filter>
+    </ClCompile>
+    <ClCompile Include="1,2,3 더하기.cpp">
+      <Filter>소스 파일\백준문제\8일</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM호텔.cpp">
+      <Filter>소스 파일\백준문제\8일</Filter>
+    </ClCompile>
+    <ClCompile Include="디지털 티비.cpp">
+      <Filter>소스 파일\백준문제\8일</Filter>
+    </ClCompile>
+    <ClCompile Include="유턴싫어.cpp">
+      <Filter>소스 파일\백준문제\8일</Filter>
+    </ClCompile>
+    <ClCompile Include="외계인 기타연주.cpp">
+      <Filter>소스 파일\백준문제\9일</Filter>
+    </ClCompile>
+    <ClCompile Include="코딩은 예쁘게.cpp">
+      <Filter>소스 파일\백준문제\9일</Filter>
+    </ClCompile>
+    <ClCompile Include="키로거.cpp">
+      <Filter>소스 파일\백준문제\9일</Filter>
+    </ClCompile>
+    <ClCompile Include="fail원영역.cpp">
+      <Filter>소스 파일\백준문제\9일</Filter>
+    </ClCompile>
+    <ClCompile Include="직사각형탈출.cpp">
+      <Filter>소스 파일\백준문제\10일</Filter>
+    </ClCompile>
+    <ClCompile Include="더하기사이클.cpp">
+      <Filter>소스 파일\백준문제\10일</Filter>
+    </ClCompile>
+    <ClCompile Include="벌집.cpp">
+      <Filter>소스 파일\백준문제\10일</Filter>
+    </ClCompile>
+    <ClCompile Include="면접에 늦었다.cpp">
+      <Filter>소스 파일\백준문제\10일</Filter>
+    </ClCompile>
+    <ClCompile Include="가운데를말해요.cpp">
+      <Filter>소스 파일\백준문제\10일</Filter>
+    </ClCompile>
+    <ClCompile Include="제곱수의합.cpp">
+      <Filter>소스 파일\백준문제\11일</Filter>
+    </ClCompile>
+    <ClCompile Include="멀티탭 스케줄링.cpp">
+      <Filter>소스 파일\백준문제\11일</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치.cpp">
+      <Filter>소스 파일\백준문제\11일</Filter>
+    </ClCompile>
+    <ClCompile Include="failDDR.cpp">
+      <Filter>소스 파일\백준문제\11일</Filter>
+    </ClCompile>
+    <ClCompile Include="사탕나눠주기.cpp">
+      <Filter>소스 파일\백준문제\11일</Filter>
+    </ClCompile>
+    <ClCompile Include="토너먼트.cpp">
+      <Filter>소스 파일\백준문제\22일\21일</Filter>
+    </ClCompile>
+    <ClCompile Include="수 이어 쓰기2.cpp">
+      <Filter>소스 파일\백준문제\22일\21일</Filter>
+    </ClCompile>
+    <ClCompile Include="신기한키보드.cpp">
+      <Filter>소스 파일\백준문제\22일\21일</Filter>
+    </ClCompile>
+    <ClCompile Include="보드게임.cpp">
+      <Filter>소스 파일\백준문제\22일\21일</Filter>
+    </ClCompile>
+    <ClCompile Include="분산처리.cpp">
+      <Filter>소스 파일\백준문제\14일</Filter>
+    </ClCompile>
+    <ClCompile Include="미로탐색.cpp">
+      <Filter>소스 파일\백준문제\14일</Filter>
+    </ClCompile>
+    <ClCompile Include="케잌배달.cpp">
+      <Filter>소스 파일\백준문제\14일</Filter>
+    </ClCompile>
+    <ClCompile Include="fail이친수찾기.cpp">
+      <Filter>소스 파일\백준문제\14일</Filter>
+    </ClCompile>
+    <ClCompile Include="분수 합.cpp">
+      <Filter>소스 파일\백준문제\22일</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치 수의 확장.cpp">
+      <Filter>소스 파일\백준문제\22일</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇 조종하기.cpp">
+      <Filter>소스 파일\백준문제\22일</Filter>
+    </ClCompile>
+    <ClCompile Include="비숍.cpp">
+      <Filter>소스 파일\백준문제\22일</Filter>
+    </ClCompile>
+    <ClCompile Include="열쇠.cpp">
+      <Filter>소스 파일\백준문제\23일</Filter>
+    </ClCompile>
+    <ClCompile Include="지름길.cpp">
+      <Filter>소스 파일\백준문제\23일</Filter>
+    </ClCompile>
+    <ClCompile Include="최화진.cpp">
+      <Filter>소스 파일\백준문제\23일</Filter>
+    </ClCompile>
+    <ClCompile Include="실패도형.cpp">
+      <Filter>소스 파일\백준문제\23일</Filter>
+    </ClCompile>
+    <ClCompile Include="중량제한.cpp">
+      <Filter>소스 파일\백준문제\23일</Filter>
+    </ClCompile>
+    <ClCompile Include="소수찾기.cpp">
+      <Filter>소스 파일\백준문제\24일</Filter>
+    </ClCompile>
+    <ClCompile Include="제곱ㄴㄴ수.cpp">
+      <Filter>소스 파일\백준문제\24일</Filter>
+    </ClCompile>
+    <ClCompile Include="거듭제곱.cpp">
+      <Filter>소스 파일\백준문제\24일</Filter>
+    </ClCompile>
+    <ClCompile Include="2xN타일링.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="붕어빵 판매하기.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="쉬운계단수.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="오르막수.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="이친수.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="fail팰린드롬만들기.cpp">
+      <Filter>소스 파일\백준문제\25일</Filter>
+    </ClCompile>
+    <ClCompile Include="스티커.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="포도주시식.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="다익스트라.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="색상환.cpp">
+      <Filter>소스 파일\나세일세미나\시험1</Filter>
+    </ClCompile>
+    <ClCompile Include="회의준비.cpp">
+      <Filter>소스 파일\나세일세미나\시험2</Filter>
+    </ClCompile>
+    <ClCompile Include="소형기관차.cpp">
+      <Filter>소스 파일\나세일세미나\시험3</Filter>
+    </ClCompile>
+    <ClCompile Include="십자뒤집기.cpp">
+      <Filter>소스 파일\나세일세미나\시험3</Filter>
+    </ClCompile>
+    <ClCompile Include="모노톤길.cpp">
+      <Filter>소스 파일\나세일세미나\시험1</Filter>
+    </ClCompile>
+    <ClCompile Include="영석이형.cpp">
+      <Filter>소스 파일\나세일세미나\시험3</Filter>
+    </ClCompile>
+    <ClCompile Include="데스노트.cpp">
+      <Filter>소스 파일\나세일세미나\시험2</Filter>
+    </ClCompile>
+    <ClCompile Include="색상환dp.cpp">
+      <Filter>소스 파일\나세일세미나\시험1</Filter>
+    </ClCompile>
+    <ClCompile Include="아!.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="신나는함수실행.cpp">
+      <Filter>소스 파일\백준문제\16일</Filter>
+    </ClCompile>
+    <ClCompile Include="마술사이민혁.cpp">
+      <Filter>소스 파일\백준문제\16일</Filter>
+    </ClCompile>
+    <ClCompile Include="평균점수.cpp">
+      <Filter>소스 파일\백준문제\16일</Filter>
+    </ClCompile>
+    <ClCompile Include="홀짝.cpp">
+      <Filter>소스 파일\백준문제\17일</Filter>
+    </ClCompile>
+    <ClCompile Include="이런반전이.cpp">
+      <Filter>소스 파일\백준문제\17일</Filter>
+    </ClCompile>
+    <ClCompile Include="Z.cpp">
+      <Filter>소스 파일\백준문제\17일</Filter>
+    </ClCompile>
+    <ClCompile Include="정상회담2.cpp">
+      <Filter>소스 파일\백준문제\17일</Filter>
+    </ClCompile>
+    <ClCompile Include="케빈 베이컨의 6단계 법칙.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="최대힙.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="타일밟기.cpp">
+      <Filter>소스 파일\백준문제\15일</Filter>
+    </ClCompile>
+    <ClCompile Include="문제출제.cpp">
+      <Filter>소스 파일\백준문제\15일</Filter>
+    </ClCompile>
+    <ClCompile Include="고층빌딩.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="비밀이메일.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="동전 0.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="대회 or 인턴.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="30.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="병든나이트.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="수묶기.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="회의실배정.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="ATM.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="1만들기.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2xn 타일링.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="123더하기.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="붕어빵판매.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="쉬운계단수dp.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="오르막수dp.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="스티커dp.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="포도주 시식.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 긴 증가하는 부분수열.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 긴 감소하는 부분수열.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 긴 바이토닉 부분 수열.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="연속합.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="계단오르기.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="제곱수의합dp.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="타일 채우기.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="합분해dp.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="암호코드dp.cpp">
+      <Filter>소스 파일\백준문제\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="이동하기.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="팰린드롬.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="팰린드롬 분할.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="동전1.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="동전2.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="내리막길.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬곱셈순서.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="2의 멱수의 합.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="ㄹㄹ구간나누기.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="자두나무.cpp">
+      <Filter>소스 파일\백준문제\DP2</Filter>
+    </ClCompile>
+    <ClCompile Include="기타줄.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\충형</Filter>
+    </ClCompile>
+    <ClCompile Include="수열의 변화.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\충형</Filter>
+    </ClCompile>
+    <ClCompile Include="통계학.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\충형</Filter>
+    </ClCompile>
+    <ClCompile Include="여행.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\충형</Filter>
+    </ClCompile>
+    <ClCompile Include="발전소.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\충형</Filter>
+    </ClCompile>
+    <ClCompile Include="적록색약.cpp">
+      <Filter>소스 파일\나세일세미나\시험4</Filter>
+    </ClCompile>
+    <ClCompile Include="색종이올려놓기.cpp">
+      <Filter>소스 파일\나세일세미나\시험4</Filter>
+    </ClCompile>
+    <ClCompile Include="미로만들기.cpp">
+      <Filter>소스 파일\나세일세미나\시험5</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각그래프.cpp">
+      <Filter>소스 파일\나세일세미나\시험5</Filter>
+    </ClCompile>
+    <ClCompile Include="몬스터트럭.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="물통.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="회장뽑기.cpp">
+      <Filter>소스 파일\나세일세미나\시험6</Filter>
+    </ClCompile>
+    <ClCompile Include="벽장문의이동.cpp">
+      <Filter>소스 파일\나세일세미나\시험6</Filter>
+    </ClCompile>
+    <ClCompile Include="Count Circle Groups.cpp">
+      <Filter>소스 파일\나세일세미나\시험6</Filter>
+    </ClCompile>
+    <ClCompile Include="히스토그램에서 가장 큰 직사각형.cpp">
+      <Filter>소스 파일\백준문제\DS2</Filter>
+    </ClCompile>
+    <ClCompile Include="fail오아시스 재결합.cpp">
+      <Filter>소스 파일\백준문제\DS2</Filter>
+    </ClCompile>
+    <ClCompile Include="시간초과친구네트워크.cpp">
+      <Filter>소스 파일\백준문제\DS2</Filter>
+    </ClCompile>
+    <ClCompile Include="이분그래프.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="줄세우기.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="네트워크연결.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="최단경로.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="최소비용구하기2.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="타임머신.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="DFSBFS.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="타타임머신.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="축사배정.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="중량제한ㄹㄹ.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="네트워크연결ff.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="경로찾기.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="열혈강호.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="노트북 주인을 찾아서.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자박스.cpp">
+      <Filter>소스 파일\백준문제\15일</Filter>
+    </ClCompile>
+    <ClCompile Include="자물쇠.cpp">
+      <Filter>소스 파일\백준문제\16일</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="경찰차.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="GCDn,l.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬덧셈.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬곱셈.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬제곱.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치수.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="다음 순열.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="이전 수열.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="모든수열.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="순열의 순서.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="쇠막대기.cpp">
+      <Filter>소스 파일\백준문제\DS2</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호스택.cpp">
+      <Filter>소스 파일\백준문제\DS2</Filter>
+    </ClCompile>
+    <ClCompile Include="ROT13.cpp">
+      <Filter>소스 파일\백준문제\DS2</Filter>
+    </ClCompile>
+    <ClCompile Include="네수.cpp">
+      <Filter>소스 파일\백준문제\DS2</Filter>
+    </ClCompile>
+    <ClCompile Include="접미사 배열.cpp">
+      <Filter>소스 파일\백준문제\DS2</Filter>
+    </ClCompile>
+    <ClCompile Include="트리순회.cpp">
+      <Filter>소스 파일\백준문제\TREE</Filter>
+    </ClCompile>
+    <ClCompile Include="트리의 부모 찾기.cpp">
+      <Filter>소스 파일\백준문제\TREE</Filter>
+    </ClCompile>
+    <ClCompile Include="트리의 지름.cpp">
+      <Filter>소스 파일\백준문제\TREE</Filter>
+    </ClCompile>
+    <ClCompile Include="날짜계산.cpp">
+      <Filter>소스 파일\백준문제\es1</Filter>
+    </ClCompile>
+    <ClCompile Include="fail리모컨.cpp">
+      <Filter>소스 파일\백준문제\es1</Filter>
+    </ClCompile>
+    <ClCompile Include="로또.cpp">
+      <Filter>소스 파일\백준문제\es1</Filter>
+    </ClCompile>
+    <ClCompile Include="특정한 최단경로.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="랜선자르기.cpp">
+      <Filter>소스 파일\백준문제\bserch</Filter>
+    </ClCompile>
+    <ClCompile Include="나무자르기.cpp">
+      <Filter>소스 파일\백준문제\bserch</Filter>
+    </ClCompile>
+    <ClCompile Include="공유기 설치.cpp">
+      <Filter>소스 파일\백준문제\bserch</Filter>
+    </ClCompile>
+    <ClCompile Include="연결요소의 개수.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="부분합.cpp">
+      <Filter>소스 파일\백준문제\es1</Filter>
+    </ClCompile>
+    <ClCompile Include="바이러스.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="동전바꿔주기.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="수찾기.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="극단적인수.cpp">
+      <Filter>소스 파일\codeground</Filter>
+    </ClCompile>
+    <ClCompile Include="윤목.cpp">
+      <Filter>소스 파일\codeground</Filter>
+    </ClCompile>
+    <ClCompile Include="감시로봇.cpp">
+      <Filter>소스 파일\codeground</Filter>
+    </ClCompile>
+    <ClCompile Include="계단수.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="기타리스트.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="극장좌석.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="개똥벌레.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="캡틴이다솜.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="선물전달.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="Generations of Tribbles.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="운동.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="궁금한 민호.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="전봇대.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="반도체설계.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="웜홀.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="두용액.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="개똥벌레ㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="캡틴이다솜ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="운동ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="궁금한 민호ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="웜홀ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="경찰차ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="계단수ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="기타리스트ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="동전바꿔주기ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="점프.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="악수.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="01타일.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="공유기설치ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="작업.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="게임개발.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="줄세우기ㄹㄹ.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="욕심쟁이판다.cpp">
+      <Filter>소스 파일\백준문제\18일</Filter>
+    </ClCompile>
+    <ClCompile Include="고층빌딩ㄹㄹ.cpp">
+      <Filter>소스 파일\백준문제\18일</Filter>
+    </ClCompile>
+    <ClCompile Include="Maze.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="DDR.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="운전면허시험.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="암호코드ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="연속합ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="계단오르기ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="벽부수고이동하기.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="텀프로젝트.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="자두나무ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="색상환ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="단지번호붙이기.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="모노톤길 ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="외판원순회.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="ddrㄹㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇조종.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원배열의합.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="줄세우기ㄹㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="여행 ㄹㄹ.cpp">
+      <Filter>소스 파일\ㄹㄹ</Filter>
+    </ClCompile>
+    <ClCompile Include="부분집합의합.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="내려가기.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="발전소ㄹㄹ.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="키순서.cpp">
+      <Filter>소스 파일\문제집ㄴㄴㄴ</Filter>
+    </ClCompile>
+    <ClCompile Include="파티.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0620</Filter>
+    </ClCompile>
+    <ClCompile Include="최소신장트리.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0620</Filter>
+    </ClCompile>
+    <ClCompile Include="0620세미나.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0620</Filter>
+    </ClCompile>
+    <ClCompile Include="0623세미나.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0623</Filter>
+    </ClCompile>
+    <ClCompile Include="축사 배정ㄹㄹ.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0624</Filter>
+    </ClCompile>
+    <ClCompile Include="노트북 주인을 찾아서ㄹㄹ.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0624</Filter>
+    </ClCompile>
+    <ClCompile Include="sha.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0624</Filter>
+    </ClCompile>
+    <ClCompile Include="케빈.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0624</Filter>
+    </ClCompile>
+    <ClCompile Include="열혈강호2.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0624</Filter>
+    </ClCompile>
+    <ClCompile Include="타임머신ss.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0624</Filter>
+    </ClCompile>
+    <ClCompile Include="시험1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0625</Filter>
+    </ClCompile>
+    <ClCompile Include="시험2.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0625</Filter>
+    </ClCompile>
+    <ClCompile Include="빙산.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="2차세계대전.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="1 2 3더하기%3b.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="모든 순열.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="로또1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="암호만들기1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="스타트링크.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="영역구하기.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="미로만들기1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="나이트의이동.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="말이 되고픈 원숭이.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="세미나 0627.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="단지번호붙이기1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0628</Filter>
+    </ClCompile>
+    <ClCompile Include="적록색약1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0628</Filter>
+    </ClCompile>
+    <ClCompile Include="scpc1번.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0629</Filter>
+    </ClCompile>
+    <ClCompile Include="scpc2번.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0629</Filter>
+    </ClCompile>
+    <ClCompile Include="scpc4번.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0629</Filter>
+    </ClCompile>
+    <ClCompile Include="scpc 화진.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0629</Filter>
+    </ClCompile>
+    <ClCompile Include="scpc5번.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0629</Filter>
+    </ClCompile>
+    <ClCompile Include="안전영역.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="섬의 개수.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="치즈.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="탈출.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="불.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="벽 부수고 이동하기.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="0630세미나.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="미로탐색1.cpp">
+      <Filter>소스 파일\여름알고리즘\6월\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="순열사이클.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0701</Filter>
+    </ClCompile>
+    <ClCompile Include="최소비용구하기.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0701</Filter>
+    </ClCompile>
+    <ClCompile Include="소수경로.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0701</Filter>
+    </ClCompile>
+    <ClCompile Include="tt.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0701</Filter>
+    </ClCompile>
+    <ClCompile Include="zz.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0701</Filter>
+    </ClCompile>
+    <ClCompile Include="1로만들기.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="coders.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="iot.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="low.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="암호코드.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="오름세.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="준혁이형.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="준혁잉형.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="파도반 수열.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="합분해.cpp">
+      <Filter>소스 파일\문제집 ㄴㄴ\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="일요일 아침의 데이트.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0702</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0702</Filter>
+    </ClCompile>
+    <ClCompile Include="색상환1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0703</Filter>
+    </ClCompile>
+    <ClCompile Include="소형기관차1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0703</Filter>
+    </ClCompile>
+    <ClCompile Include="오르막수1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0703</Filter>
+    </ClCompile>
+    <ClCompile Include="카드게임.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="소형기관차2.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="1로만들기1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="2xN타일링1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="2xN타일링21.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="123더하기1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="붕어빵판매하기1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="쉬운계단수1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="이친수1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="스티커1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="포도주 시식1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="가장긴증가하는부분수열.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 긴 감소하는 부분 수열.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="가장긴 바이토닉 수열.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="연속합1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="만취한 상범.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="0704세미나.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇조종하기.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0704</Filter>
+    </ClCompile>
+    <ClCompile Include="계단오르기1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0705</Filter>
+    </ClCompile>
+    <ClCompile Include="제곱수의 합.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0705</Filter>
+    </ClCompile>
+    <ClCompile Include="타일채우기.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0705</Filter>
+    </ClCompile>
+    <ClCompile Include="파도반 수열1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0705</Filter>
+    </ClCompile>
+    <ClCompile Include="연속합2.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0706</Filter>
+    </ClCompile>
+    <ClCompile Include="쉬운계단수2.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0706</Filter>
+    </ClCompile>
+    <ClCompile Include="계단오르기2.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0706</Filter>
+    </ClCompile>
+    <ClCompile Include="이동하기1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0706</Filter>
+    </ClCompile>
+    <ClCompile Include="구간나누니.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0707</Filter>
+    </ClCompile>
+    <ClCompile Include="rgb거리1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0707</Filter>
+    </ClCompile>
+    <ClCompile Include="DDR1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0707</Filter>
+    </ClCompile>
+    <ClCompile Include="전깃줄.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0707</Filter>
+    </ClCompile>
+    <ClCompile Include="대영1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0707</Filter>
+    </ClCompile>
+    <ClCompile Include="0708세미나.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0708</Filter>
+    </ClCompile>
+    <ClCompile Include="트리의지름.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0713</Filter>
+    </ClCompile>
+    <ClCompile Include="다리만들기.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0713</Filter>
+    </ClCompile>
+    <ClCompile Include="동물원.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0713</Filter>
+    </ClCompile>
+    <ClCompile Include="프리랜서.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0714</Filter>
+    </ClCompile>
+    <ClCompile Include="Ractangle.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0714</Filter>
+    </ClCompile>
+    <ClCompile Include="파일 합치기.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0717</Filter>
+    </ClCompile>
+    <ClCompile Include="김치배달.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0717</Filter>
+    </ClCompile>
+    <ClCompile Include="k번째 수.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="8진수 10진수 16진수.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="주몽.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="화학제품.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="주작 주 주작.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="나의 행렬곱셈.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="귀농.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0718</Filter>
+    </ClCompile>
+    <ClCompile Include="사탕게임.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="합이0인네정수.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇프로젝트.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="가장긴 증가하는 부분수열3.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="개미.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="수족관.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="모래성.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="블록게임.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="보석상자.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0719</Filter>
+    </ClCompile>
+    <ClCompile Include="수족관 세미나.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0720</Filter>
+    </ClCompile>
+    <ClCompile Include="무한수열.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0721</Filter>
+    </ClCompile>
+    <ClCompile Include="유전자.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0721</Filter>
+    </ClCompile>
+    <ClCompile Include="트리의 독립 집합.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0721</Filter>
+    </ClCompile>
+    <ClCompile Include="기지국.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0722</Filter>
+    </ClCompile>
+    <ClCompile Include="크리스마스트리.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0722</Filter>
+    </ClCompile>
+    <ClCompile Include="앱.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0722</Filter>
+    </ClCompile>
+    <ClCompile Include="암호.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0722</Filter>
+    </ClCompile>
+    <ClCompile Include="토너먼트만들기.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="외판원 순회.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="Sequence.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="동전111.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="축구.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="전시장.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="007.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="금고부수기.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="지우개.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0724</Filter>
+    </ClCompile>
+    <ClCompile Include="곱셈.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0725</Filter>
+    </ClCompile>
+    <ClCompile Include="별찍기-10.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0725</Filter>
+    </ClCompile>
+    <ClCompile Include="히스토그램.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0725</Filter>
+    </ClCompile>
+    <ClCompile Include="오일러회로.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0725</Filter>
+    </ClCompile>
+    <ClCompile Include="단절점.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0727</Filter>
+    </ClCompile>
+    <ClCompile Include="LCA.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0727</Filter>
+    </ClCompile>
+    <ClCompile Include="타임머신1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0727</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle Course.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0727</Filter>
+    </ClCompile>
+    <ClCompile Include="자동차경주.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0727</Filter>
+    </ClCompile>
+    <ClCompile Include="K번째 최단경로.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0727</Filter>
+    </ClCompile>
+    <ClCompile Include="국왕의방문.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0727</Filter>
+    </ClCompile>
+    <ClCompile Include="totalflow.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0728</Filter>
+    </ClCompile>
+    <ClCompile Include="comp.cpp">
+      <Filter>소스 파일\여름알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="노트북주인.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0728</Filter>
+    </ClCompile>
+    <ClCompile Include="열혈강호3.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0728</Filter>
+    </ClCompile>
+    <ClCompile Include="찾기.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0729</Filter>
+    </ClCompile>
+    <ClCompile Include="킹.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0801</Filter>
+    </ClCompile>
+    <ClCompile Include="달이차오른다,가자.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0801</Filter>
+    </ClCompile>
+    <ClCompile Include="다이아몬드 광산.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0801</Filter>
+    </ClCompile>
+    <ClCompile Include="포켓몬마스터 이다솜.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0801</Filter>
+    </ClCompile>
+    <ClCompile Include="사냥꾼.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0803</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자퍼즐.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0803</Filter>
+    </ClCompile>
+    <ClCompile Include="자동분무기.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0804</Filter>
+    </ClCompile>
+    <ClCompile Include="도형.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0804</Filter>
+    </ClCompile>
+    <ClCompile Include="동전게임.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0804</Filter>
+    </ClCompile>
+    <ClCompile Include="관중석.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0804</Filter>
+    </ClCompile>
+    <ClCompile Include="트리색칠하기.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0804</Filter>
+    </ClCompile>
+    <ClCompile Include="동전1 슬라이딩윈도우.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0805</Filter>
+    </ClCompile>
+    <ClCompile Include="sequencef.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0805</Filter>
+    </ClCompile>
+    <ClCompile Include="축구ㄹ.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0805</Filter>
+    </ClCompile>
+    <ClCompile Include="전시장ㄹ.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="007ㄹ.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="금고 테스틀.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="지우개ㄹㄹ.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="단절점1.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="단절선.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="타일밟기1.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0806</Filter>
+    </ClCompile>
+    <ClCompile Include="LCA1.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0807</Filter>
+    </ClCompile>
+    <ClCompile Include="정점들의 거리.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0807</Filter>
+    </ClCompile>
+    <ClCompile Include="LCA21.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0807</Filter>
+    </ClCompile>
+    <ClCompile Include="찾기해시.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0807</Filter>
+    </ClCompile>
+    <ClCompile Include="광고.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="두개의탑.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="디버그.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="개구리공주.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="보물섬.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="민균이의 비밀번호.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="점수계산.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="역사.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0808</Filter>
+    </ClCompile>
+    <ClCompile Include="수복원하기.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="심부름가는길.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="할로윈의사탕.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="주사위.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각형과 세변.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="가위바위보.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="상근이의 친구들.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="최소값.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="입력숫자.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="수족관2.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0809</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자게임.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0810</Filter>
+    </ClCompile>
+    <ClCompile Include="오아시스재결합.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0810</Filter>
+    </ClCompile>
+    <ClCompile Include="통학버스.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0815</Filter>
+    </ClCompile>
+    <ClCompile Include="R2.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0816</Filter>
+    </ClCompile>
+    <ClCompile Include="초콜릿자르기.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0816</Filter>
+    </ClCompile>
+    <ClCompile Include="IOIOI.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0816</Filter>
+    </ClCompile>
+    <ClCompile Include="분해합.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0816</Filter>
+    </ClCompile>
+    <ClCompile Include="영식이와 친구들.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0816</Filter>
+    </ClCompile>
+    <ClCompile Include="박성원.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0817</Filter>
+    </ClCompile>
+    <ClCompile Include="도로와 신호등.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0818</Filter>
+    </ClCompile>
+    <ClCompile Include="커피숍.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0818</Filter>
+    </ClCompile>
+    <ClCompile Include="최소힙최대힙.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0826</Filter>
+    </ClCompile>
+    <ClCompile Include="경찰차1.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0826</Filter>
+    </ClCompile>
+    <ClCompile Include="참외밭.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0830</Filter>
+    </ClCompile>
+    <ClCompile Include="점수 계산1.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0831</Filter>
+    </ClCompile>
+    <ClCompile Include="커피숍2.cpp">
+      <Filter>소스 파일\여름알고리즘\8월\0831</Filter>
+    </ClCompile>
+    <ClCompile Include="파티1.cpp">
+      <Filter>소스 파일\여름알고리즘\9월</Filter>
+    </ClCompile>
+    <ClCompile Include="여행1.cpp">
+      <Filter>소스 파일\여름알고리즘\9월</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="0.1.cpp">
+      <Filter>소스 파일\여름알고리즘\7월\0718</Filter>
+    </None>
+  </ItemGroup>
+</Project>
